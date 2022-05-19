@@ -7,5 +7,6 @@ public class text1 {
         int a =10 ;
 
         //测试一个更新
+         //我重github上写了这些文章
     }
 }
