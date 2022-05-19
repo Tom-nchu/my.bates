@@ -3,5 +3,8 @@ public class text1 {
     {
         System.out.println("wellcon to idea ???");
         System.out.println("git test");
+        //在我的分支上做出了改动
+        int a =10 ;
+
     }
 }
